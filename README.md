@@ -389,3 +389,37 @@
 
     <a class="comp-card" href="https://bryanalencastre.github.io/Bryan-Alencastre/" target="_blank" rel="noopener">
       <div class="comp-avatar">G</div>
+      <div class="comp-name">Gabriel</div>
+      <div class="comp-link">↗ Ver página</div>
+    </a>
+
+    <a class="comp-card" href="https://yulvillena-source.github.io/Yul_Villena/" target="_blank" rel="noopener">
+      <div class="comp-avatar">Y</div>
+      <div class="comp-name">Yul</div>
+      <div class="comp-link">↗ Ver página</div>
+    </a>
+
+    <a class="comp-card" href="https://angelfabianramosmunoz.github.io/" target="_blank" rel="noopener">
+      <div class="comp-avatar">A</div>
+      <div class="comp-name">Angel</div>
+      <div class="comp-link">↗ Ver página</div>
+    </a>
+
+  </div>
+</section>
+
+<footer>
+  <p>Thiago Mathias Nieves Checca &nbsp;·&nbsp; UCSP Arequipa &nbsp;·&nbsp; 2025</p>
+</footer>
+
+<script>
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) e.target.classList.add('visible');
+    });
+  }, { threshold: 0.1 });
+  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+</script>
+
+</body>
+</html>
