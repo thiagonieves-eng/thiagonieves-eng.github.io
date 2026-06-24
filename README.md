@@ -3,12 +3,12 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Thiago Nieves</title>
-  <meta name="description" content="Estudiante de Ciencias de la Computación en la Universidad Católica San Pablo, Arequipa, Perú."/>
+  <title>Thiago Mathias Nieves Checca</title>
+  <meta name="description" content="Thiago Mathias Nieves Checca — Estudiante de Ciencias de la Computación en la Universidad Católica San Pablo, Arequipa, Perú."/>
   <meta name="author" content="Thiago Mathias Nieves Checca"/>
   <meta name="keywords" content="Thiago Nieves, Thiago Mathias Nieves Checca, UCSP, Ciencias de la Computación, Arequipa, Peru, estudiante programacion"/>
-  <meta property="og:title" content="Thiago Nieves"/>
-  <meta property="og:description" content="Estudiante de Ciencias de la Computación en la UCSP, Arequipa."/>
+  <meta property="og:title" content="Thiago Mathias Nieves Checca"/>
+  <meta property="og:description" content="Thiago Mathias Nieves Checca — Estudiante de Ciencias de la Computación en la UCSP, Arequipa."/>
   <meta property="og:type" content="website"/>
   <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=Space+Mono:wght@400;700&display=swap" rel="stylesheet"/>
   <style>
@@ -280,7 +280,7 @@
 <body>
 
 <nav>
-  <div class="nav-logo">Thiago Nieves</div>
+  <div class="nav-logo">Thiago Mathias Nieves Checca</div>
   <ul class="nav-links">
     <li><a href="#sobre-mi">Sobre mí</a></li>
     <li><a href="#profesores">Profesores</a></li>
